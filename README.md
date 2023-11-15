@@ -1,4 +1,9 @@
-<h1>Azure-Portal-Tutorial</h1>
+<p align="center">
+ <img src="https://github.com/Velezdrv/Azure-Portal-Tutorial/assets/147437260/0c92122c-77df-44df-bc1a-6c4f6a0bc33a&auto=format&fit=crop&w=2772&q=80" width="300" height="300" border="10"/>
+</p>
+
+   
+<h1 align="center">Azure-Portal-Tutorial</h1>
 
 - Upon logging into Azure Portal, the first page you should see is always the Home Page
   - The Home Page offer multiple ways to access the Azure Portal's resources, one being the Search Bar at the top center and notable headings
@@ -8,3 +13,4 @@
   - Tools - Heading that offers quick links to the infastructure and cost of the resources used in Azure as well as the online course Microsoft Learn for further education how to use Microsoft Azure
 
 ![image](https://github.com/Velezdrv/Azure-Portal-Tutorial/assets/147437260/030f734f-15a0-4194-94ab-ce9a4416bd62)
+
