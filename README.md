@@ -22,3 +22,17 @@
 
 ![image](https://github.com/Velezdrv/Azure-Portal-Tutorial/assets/147437260/030f734f-15a0-4194-94ab-ce9a4416bd62)
 
+<h2>Creating a Resource Group</h2>
+
+- Resource Groups serves as the base for many of Microsoft Azure's services and tools. To use Virtual Machines or Network Security Groups, you need a Resource Group.
+Head to the Resource groups page and click on create
+
+![image](https://github.com/Velezdrv/Azure-Portal-Tutorial/assets/147437260/ea56809f-bcbb-452a-84ef-38f2ff80c0b8)
+
+- Resource Groups have 3 fields for creation
+  - Basics - Tab where you enter the name of your Resource Group and Subscription it is linked to for billing upon the use of Resources in that Group
+  - Tags - Simple organizational tool for managing resources and view consolidated billing by applying the same tag to multiple resources and resource groups
+  - Review + Create - Validation processing to check if credentials (notably a name) are filled and the Subscription is usable
+- After validation passed, click on Create in the bottom and your Resource Group is created. Note: based on server speed and Internet connection, Resources and Resource Groups will take some time to deploy, take note of the notification bell at the top right to see when deployment is complete
+
+![image](https://github.com/Velezdrv/Azure-Portal-Tutorial/assets/147437260/f0565785-5b81-4ab3-bbca-97b78d9fdcd8)
