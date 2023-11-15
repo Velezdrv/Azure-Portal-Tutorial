@@ -40,7 +40,6 @@ Head to the Resource groups page and click on create
 <h2>Clean UP</h2>
 
  - When done using your newly created Resource Group, if you no longer need it, Delete it, as you will continue to be charge for it periodically.
-   - (Example I needed to create a second azure account because I forgot to delete mine over Halloween)
    - Head to the Resource Group and select Delete to open a window on the right. Deletion of the Resource Group require verification by entering its name, it's also convenient since it deletes all resources in that group
   
   ![image](https://github.com/Velezdrv/Azure-Portal-Tutorial/assets/147437260/a6ecf8c3-3e7d-4e04-bb42-654e08eae85e)
