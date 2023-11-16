@@ -6,8 +6,8 @@
 
 <h2>Environments and Technologies Used</h2>
 
-- Microsoft Azure
 - Windows 11 Pro
+- Microsoft Azure
 
 <h2>Microsoft Azure Website</h2>
 
